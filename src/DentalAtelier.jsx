@@ -84,7 +84,7 @@ const SERVICES = [
 
 const TEAM = [
   {
-    photo: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=600&q=80",
+    photo: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=600&q=80",
     name: "Алексей Смирнов",
     role: "Главный врач · Терапевт",
     exp: "16 лет практики",
