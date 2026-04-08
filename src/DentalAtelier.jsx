@@ -84,7 +84,7 @@ const SERVICES = [
 
 const TEAM = [
   {
-    photo: "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=600&q=80",
+    photo: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=600&q=80",
     name: "Елена Смирнова",
     role: "Главный врач · Терапевт",
     exp: "16 лет практики",
